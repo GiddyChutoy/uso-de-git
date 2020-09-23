@@ -13,9 +13,9 @@ function mostrarVariables(){
     alert("Variable3 * 35: " + (variable3 * 35));
 }
 
-function comprobarOperadore(){
-    var var1 = "";
-    var var2 = "";
+function comprobarOperadores(){
+    var var1 = "hola";
+    var var2 = "adios";
     alert(
         var1==var2,
         var1!=var2,
